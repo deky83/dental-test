@@ -1,0 +1,1255 @@
+	<!-- Our Team -->
+	<section class="ulockd-team bgc-icebluelight" id="beforeafter">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3 text-center">
+					<div class="ulockd-main-title">
+						<h2 class="text-uppercase">Slike pacijenata<span class="text-thm2"> pre i posle</span></h2>
+						<p>Perspiciatis Unde Omnis Iste Sed ut perspiciatis unde omnis iste natu error sit voluptatem accusan.</p>
+						<div class="mt-separator"></div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<!-- Nav tabs -->
+					<div class="gallery-slider regular slider nav nav-tabs team-tab " role="tablist" id="gallery-slider">
+
+				  		<div role="presentation" class="item"><a href="#team1" aria-controls="team1" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb1.jpg" alt="s1.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team2" aria-controls="team2" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb2.jpg" alt="thumb2.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team3" aria-controls="team3" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb3.jpg" alt="thumb2.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team4" aria-controls="team4" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb4.jpg" alt="s4.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team5" aria-controls="team5" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb5.jpg" alt="s5.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team6" aria-controls="team6" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb6.jpg" alt="s6.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team7" aria-controls="team7" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb7.jpg" alt="s7.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team8" aria-controls="team8" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb8.jpg" alt="s8.jpg"></a></div>
+				  		<div role="presentation" ><a href="#team9" aria-controls="team9" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb9.jpg" alt="s1.jpg"></a></div>
+
+				  		<div role="presentation" class="item"><a href="#team10" aria-controls="team10" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb10.jpg" alt="thumb10.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team11" aria-controls="team11" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb11.jpg" alt="thumb11.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team12" aria-controls="team12" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb12.jpg" alt="team12"></a></div>
+				  		<div role="presentation" class="item"><a href="#team13" aria-controls="team13" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb13.jpg" alt="s5.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team14" aria-controls="team14" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb14.jpg" alt="s6.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team15" aria-controls="team15" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb15.jpg" alt="s7.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team16" aria-controls="team16" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb16.jpg" alt="s8.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team17" aria-controls="team17" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb17.jpg" alt="s8.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team18" aria-controls="team18" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb18.jpg" alt="thumb10.jpg"></a></div>
+
+				  		<div role="presentation" class="item"><a href="#team19" aria-controls="team19" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb19.jpg" alt="thumb11.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team20" aria-controls="team20" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb20.jpg" alt="team12"></a></div>
+				  		<div role="presentation" class="item"><a href="#team21" aria-controls="team21" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb21.jpg" alt="s5.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team22" aria-controls="team22" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb22.jpg" alt="s6.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team23" aria-controls="team23" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb23.jpg" alt="s6.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team24" aria-controls="team24" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb24.jpg" alt="s8.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team25" aria-controls="team25" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb25.jpg" alt="s8.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team26" aria-controls="team26" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb26.jpg" alt="s8.jpg"></a></div>
+				  		<div role="presentation" class="item"><a href="#team27" aria-controls="team27" role="tab" data-toggle="tab"><img src="images/beforeafter/thumb27.jpg" alt="s8.jpg"></a></div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<!-- Tab panes -->
+				<div class="tab-content">
+			  		<div role="tabpanel" class="tab-pane active team1" id="team1">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before1.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before1.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after1.jpg" alt="after1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after1.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+
+			  		<div role="tabpanel" class="tab-pane  team2" id="team2">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before2.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+											<li>PRE</li>
+				  							<li><a href="images/beforeafter/before2.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after2.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+											<li>POSLE</li>
+				  							<li><a href="images/beforeafter/after2.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+
+			  		<div role="tabpanel" class="tab-pane  team3" id="team3">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before3.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before3.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after3.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after2.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+
+			  		<div role="tabpanel" class="tab-pane  team4" id="team4">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before4.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before4.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after4.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after4.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+
+			  		<div role="tabpanel" class="tab-pane  team5" id="team5">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before5.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before5.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after5.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after5.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+
+			  		<div role="tabpanel" class="tab-pane  team6" id="team6">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before6.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before6.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after6.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after6.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+
+			  		<div role="tabpanel" class="tab-pane  team7" id="team7">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before7.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before7.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after7.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after7.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+
+			  		<div role="tabpanel" class="tab-pane  team8" id="team8">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before8.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before8.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after8.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after8.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team9" id="team9">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before9.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before9.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after9.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after9.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team10" id="team10">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before10.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before10.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after10.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after10.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team11" id="team11">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before11.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before11.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after11.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after11.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team12" id="team12">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before12.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before12.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after12.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after12.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team13" id="team13">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before13.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before13.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after13.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after13.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team14" id="team14">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before14.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before14.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after14.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after14.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team15" id="team15">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before15.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before15.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after15.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after15.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team16" id="team16">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before16.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before16.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after16.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after16.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team17" id="team17">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before17.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before17.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after17.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after17.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team18" id="team18">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before18.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before18.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after18.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after18.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team19" id="team19">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before19.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before19.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after19.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after19.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team20" id="team20">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before20.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before20.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after20.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after20.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team21" id="team21">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before21.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before21.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after21.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after21.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team22" id="team22">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before22.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before22.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after22.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after22.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team23" id="team23">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before23.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before23.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after23.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after23.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team24" id="team24">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before24.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before24.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after24.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after24.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team25" id="team25">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before25.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before25.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after25.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after25.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team26" id="team26">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before26.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before26.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after26.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after26.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+			  		<div role="tabpanel" class="tab-pane  team27" id="team27">
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/before27.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Pre</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/before27.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+							<div class="ulockd-team-member">
+								<div class="team-thumb">
+									<img class="img-responsive img-whp" src="images/beforeafter/after27.jpg" alt="1.jpg">
+									<div class="team-overlay">
+										<h2 class="before-title">Posle</h2>
+										<ul class="list-inline team-icon style2">
+				  							<li><a href="images/beforeafter/after27.jpg"  data-fancybox-group="preject" class="lightbox-image"><span class="flaticon-focus"></span></a></li>
+				  							
+				  						</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-4">
+							<div class="ulockd-testimonials text-center change">
+								<div class="testi-details">
+									<h3>Želiš ovakvu promenu ?</h3>
+									<span class=" text-thm2"></span>
+									<p class="lead"><em>Zakaži termin za svoj besplatan pregled</em></p>
+								</div>
+								<div class="testi-thumb">
+									<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</i></a>
+								</div>
+							</div>
+						</div>
+			  		</div>
+
+
+				</div>
+			</div>
+		</div>
+	</section>

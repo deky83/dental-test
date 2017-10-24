@@ -1,0 +1,62 @@
+<section class="ulockd-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+					<div class="ulockd-footer-widget">
+    					<img alt="" src="images/dental-logo.png" class="ulockd-footer-log mb-10">
+    					<p class="ulockd-ftr-text">Centar za savremenu i estetsku stomatologiju </p>
+
+    				</div>
+
+
+				</div>
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+					<div class="ulockd-footer-lnews">
+						<h3 class="text-uppercase">Kontakt</h3>
+					<div class="ulockd-footer-widget">
+    					<p class="ulockd-ftr-text">Dental Expert</p>
+    					<ul class="list-unstyled">
+    						<li><a href="tel:+38163397378"><span class="flaticon-old-handphone text-thm2"></span> +381 63 39 73 78</a> </li>
+    						<li><a href="emailto:office@implantibeograd.com"><span class="flaticon-black-back-closed-envelope-shape text-thm2"></span>office@implantibeograd.com</a></li>
+    						
+    					</ul>
+    				</div>
+
+
+					</div>
+				</div>
+
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4">
+					<div class="ulockd-footer-lnews">
+					<h3 class="text-uppercase">Prijavite se</h3>
+
+
+    				<div class="ulockd-footer-newsletter">
+    					<h4 class="title text-uppercase">Newsletter</h4>
+		                <form class="ulockd-mailchimp">
+		                    <div class="input-group">
+			                    <input type="email" class="form-control input-md" placeholder="Vaš email" name="EMAIL" value="">
+			                    <span class="input-group-btn">
+			                        <button type="submit" class="btn btn-md"><i class="icon flaticon-right-arrow"></i></button>
+			                    </span>
+		                    </div>
+		                </form>
+    				</div>
+					</div>
+				</div>
+			
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Our CopyRight Section -->
+	<section class="ulockd-copy-right">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<p class="color-white">Dental Expert Copyright© 2017.Sva prava zadržana.</p>
+				</div>
+			</div>
+		</div>
+	</section>

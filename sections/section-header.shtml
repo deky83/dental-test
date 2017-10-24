@@ -1,0 +1,77 @@
+	<div class="header-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<div class="social-linked">
+						<ul class="list-inline">
+							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+<!--   							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fa fa-rss"></i></a></li>
+							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+							<li><a href="#"><i class="fa fa-pinterest"></i></a></li> -->
+							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="welcm-ht text-center">
+  					<p class="ulockd-welcntxt">Dobrodošli u <span class="color-black33">Dental Expert</span></p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<ul class="list-inline text-right tac-smd">
+					<li>
+						<div class="dropdown lang-button text-center">
+							<button class="dropbtn">Jezik</button>
+							<div class="dropdown-content">
+							    <a href="#"> <span><img src="images/resource/english.jpg" alt=""></span> English</a>
+							    <a href="#"> <span><img src="images/resource/franch.jpg" alt=""></span> French</a>
+							    <a href="#"> <span><img src="images/resource/spanish.jpg" alt=""></span> Spanish</a>
+							</div>
+						</div>
+					</li>
+
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="header-middle">
+		<div class="container">
+			<div class="row">
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+					<div class="ulockd-welcm-hmddl tac-md">
+					<a href="index.html" class="ulockd-main-logo"><img src="images/dental-logo.png" alt=""></a>
+					</div> 
+				</div>
+
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+				<!-- <div class="ulockd-ohour-info style2 text-center">
+					<div class="ulockd-icon text-thm2"><span class="flaticon-home"></span></div>
+					<div class="ulockd-info">
+						<h4>Adresa</h4>
+						<p>Lerm Ipsum bb</p>
+					</div>
+				</div> -->
+				</div>
+				  				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+				<div class="ulockd-ohour-info style2 mb305-xsd text-center">
+					<div class="ulockd-icon text-thm2"><span class="flaticon-email-filled-closed-envelope"></span></div>
+					<div class="ulockd-info">
+						<h4>Pišite nam</h4>
+						<p class="ulockd-addrss"><strong>Email:</strong><a href="emailto:office@implantibeograd.com">office@implantibeograd.com</a> </p>
+					</div>
+				</div>
+				</div>
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
+				<div class="ulockd-ohour-info style2 text-center">
+					<div class="ulockd-icon text-thm2"><span class="flaticon-old-handphone"></span></div>
+					<div class="ulockd-info">
+						<h4>Kontaktirajte nas</h4>
+						<p class="ulockd-addrss"><a href="tel:+38163397378"> +381 63 39 73 78</a></p>
+					</div>
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>

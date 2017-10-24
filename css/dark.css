@@ -1,0 +1,214 @@
+/* Initialize Variables */
+/* Bonanza Project Color */
+/* Medical Color */
+/* line 4, ../sass/dark.scss */
+.color-black33 {
+  color: unset;
+}
+
+/* line 7, ../sass/dark.scss */
+.bgc-snowshade,
+.bgc-snowshade2 {
+  background-color: transparent;
+}
+
+/* line 13, ../sass/dark.scss */
+body {
+  background-color: #111111;
+  color: gray;
+}
+
+/* line 18, ../sass/dark.scss */
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  color: #ffffff !important;
+}
+/* line 21, ../sass/dark.scss */
+h1 small,
+h1 .small, h2 small,
+h2 .small, h3 small,
+h3 .small, h4 small,
+h4 .small, h5 small,
+h5 .small, h6 small,
+h6 .small,
+.h1 small,
+.h1 .small, .h2 small,
+.h2 .small, .h3 small,
+.h3 .small, .h4 small,
+.h4 .small, .h5 small,
+.h5 .small, .h6 small,
+.h6 .small {
+  font-weight: normal;
+  line-height: 1;
+  color: #eeeeee !important;
+}
+/* line 27, ../sass/dark.scss */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a {
+  color: #eeeeee !important;
+}
+
+/* line 31, ../sass/dark.scss */
+a {
+  color: #eeeeee !important;
+}
+
+/* line 34, ../sass/dark.scss */
+blockquote {
+  color: #ffffff;
+}
+
+/* line 37, ../sass/dark.scss */
+.dropdown-content {
+  background-color: gray;
+}
+
+/* line 41, ../sass/dark.scss */
+.ulockd-ohour-info.style2 {
+  background-color: transparent;
+}
+
+/* line 45, ../sass/dark.scss */
+.header-middle,
+.our-shop,
+.ulockd-testimonial,
+.ulockd-blog,
+.ulockd-ffact-one {
+  background-color: transparent !important;
+}
+
+/* line 52, ../sass/dark.scss */
+.ulockd-cell,
+.ulockd-addrss,
+.ulockd-info > p {
+  color: gray;
+}
+
+/* line 57, ../sass/dark.scss */
+.header-nav .main-header-nav.navbar-scrolltofixed {
+  background-color: #111111;
+}
+
+/* line 60, ../sass/dark.scss */
+.ulockd-ffact-one p {
+  color: #ffffff !important;
+}
+
+/* line 63, ../sass/dark.scss */
+nav.navbar.bootsnav.menu-style1 ul.nav li a.active,
+nav.navbar.bootsnav.menu-style1 ul.nav li a:hover,
+nav.navbar.bootsnav.menu-style1 ul.nav li a:focus,
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu li a:hover,
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu li a:focus {
+  color: #ffffff !important;
+}
+
+/* line 70, ../sass/dark.scss */
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  background-color: transparent;
+}
+
+/* line 74, ../sass/dark.scss */
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu {
+  background-color: #111111;
+}
+
+/* line 77, ../sass/dark.scss */
+nav.navbar.bootsnav.menu-style1 ul.nav li a {
+  color: #DCDCDC !important;
+}
+
+/* line 80, ../sass/dark.scss */
+nav.navbar.bootsnav.menu-style2 ul.nav li a.active,
+nav.navbar.bootsnav.menu-style2 ul.nav li a:hover,
+nav.navbar.bootsnav.menu-style2 ul.nav li a:focus,
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu li a:hover,
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu li a:focus {
+  color: #111111 !important;
+}
+
+/* line 87, ../sass/dark.scss */
+nav.navbar.bootsnav.menu-style2 ul.nav li a {
+  color: gray !important;
+}
+
+/* line 90, ../sass/dark.scss */
+.ulockd-partner-thumb {
+  background-color: #bbbbbb !important;
+}
+
+/* line 94, ../sass/dark.scss */
+form.ulockd-login-form, form.ulockd-reg-form {
+  background-color: gray;
+}
+
+/* line 102, ../sass/dark.scss */
+.cart-list li.total span {
+  color: gray;
+}
+
+@media only screen and (max-width: 992px) {
+  /* line 110, ../sass/dark.scss */
+  nav.menu-style1,
+  nav.navbar.bootsnav .navbar-toggle {
+    background-color: transparent !important;
+  }
+}
+/* line 116, ../sass/dark.scss */
+.about-box {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+}
+
+/* line 120, ../sass/dark.scss */
+.ulockd-service-three,
+.ficon-box,
+.ulockd-team-member,
+.partner-slider {
+  background-color: transparent;
+}
+
+/* line 126, ../sass/dark.scss */
+.testimonial,
+.blog-npost {
+  background-color: gray;
+}
+
+/* line 133, ../sass/dark.scss */
+.flip-container .flipper .back {
+  background-color: gray;
+}
+
+/* line 140, ../sass/dark.scss */
+article.ulockd-blog-post .bp-details {
+  background-color: transparent;
+}
+
+/* line 148, ../sass/dark.scss */
+.footer-contact p,
+.footer-fst-col p {
+  color: unset;
+}
+
+/* line 152, ../sass/dark.scss */
+.ftr-phone,
+.ftr-fax,
+.ftr-mail {
+  color: unset;
+}
+
+/* line 160, ../sass/dark.scss */
+.twitter.style2 ul li {
+  color: unset;
+}
+
+/* line 169, ../sass/dark.scss */
+.ulockd-divider1:before {
+  background-color: rgba(0, 0, 0, 0.8);
+  content: "";
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

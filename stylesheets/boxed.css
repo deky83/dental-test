@@ -1,0 +1,47 @@
+/* Initialize Variables */
+/* Bonanza Project Color */
+/* Medical Color */
+/* line 5, ../sass/boxed.scss */
+body {
+  background-color: #DCDCDC !important;
+  margin: 0 auto;
+  overflow-x: hidden !important;
+  width: 1200px;
+}
+
+/* line 11, ../sass/boxed.scss */
+.header-middle,
+.ulockd-fservice,
+.ulockd-team,
+.ulockd-about,
+.ulockd-team-two,
+.ulockd-about2,
+.ulockd-causes {
+  background-color: #ffffff;
+}
+
+/* line 20, ../sass/boxed.scss */
+.main-slider2 .caption {
+  padding: 12% 18%;
+}
+
+/* line 23, ../sass/boxed.scss */
+.main-slider2 .mslider-caption {
+  padding: 13% 15% !important;
+}
+
+/* line 26, ../sass/boxed.scss */
+.ulockd-partner,
+.ulockd-footer2 {
+  background-color: #ffffff;
+}
+
+/* line 30, ../sass/boxed.scss */
+.box-bg1 {
+  background-image: url("../images/pattern/2.jpg");
+}
+
+/* line 33, ../sass/boxed.scss */
+.box-bg2 {
+  background-image: url("../images/pattern/3.png");
+}

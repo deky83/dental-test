@@ -1,0 +1,97 @@
+/* Initialize Variables */
+/* Bonanza Project Color */
+/* Medical Color */
+/* (min-width:992px) (max-width:1199px) */
+/* (min-width:768px) (max-width:991px) */
+@media only screen and (max-width: 991px) {
+  /* Home slider rtl */
+}
+/* (min-width:480px) (max-width:767px) */
+@media only screen and (max-width: 767px) {
+  /* line 13, ../sass/rtl.scss */
+  .htc-info .ulockd-icon {
+    float: none !important;
+  }
+
+  /* line 14, ../sass/rtl.scss */
+  .ulockd-ohour-info .ulockd-icon {
+    float: none !important;
+  }
+
+  /* home slider start */
+  /* Service icon */
+  /* line 17, ../sass/rtl.scss */
+  .service-col .srvc-icon {
+    left: 0 !important;
+  }
+}
+/* (min-width:361px) (max-width:479px) */
+@media only screen and (max-width: 479px) {
+  /* Main Slider Start*/
+}
+@media only screen and (max-width: 400px) {
+  /* Main Slider Start*/
+}
+/* line 31, ../sass/rtl.scss */
+nav.navbar.bootsnav.menu-style1 ul.dropdown-menu.megamenu-content .content ul.menu-col li a {
+  text-align: right;
+}
+
+/* Home Slider One Start */
+/* Home Slider One End */
+/* line 35, ../sass/rtl.scss */
+.ulockd-ohour-info .ulockd-icon {
+  margin-left: 16px;
+  margin-right: 0;
+}
+
+/* line 39, ../sass/rtl.scss */
+.ulockd-faq-content .panel .panel-title a i, .ulockd-faq-box .panel .panel-title a i {
+  margin-left: 15px;
+  margin-right: -15px;
+}
+
+/* line 43, ../sass/rtl.scss */
+.subscribe button {
+  margin-right: -5px;
+}
+
+/* line 46, ../sass/rtl.scss */
+.bp-details.one .bp-date {
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+/* line 50, ../sass/rtl.scss */
+.title-bottom:before {
+  right: 0;
+}
+
+/* line 53, ../sass/rtl.scss */
+.icon_box {
+  padding: 30px 0 0;
+}
+
+/* line 54, ../sass/rtl.scss */
+.icon_box .ib_details {
+  margin-left: auto;
+  margin-right: 75px;
+}
+
+/* line 55, ../sass/rtl.scss */
+.icon_box .ib_details.left {
+  margin-left: 75px;
+  margin-right: auto;
+}
+
+/* Footer navigation */
+/* line 57, ../sass/rtl.scss */
+.ulockd-footer-qlink .list-unstyled li span {
+  padding-left: 10px;
+}
+
+/* line 60, ../sass/rtl.scss */
+.ulockd-footer-qlink .list-unstyled li a:hover {
+  padding-left: 0;
+  padding-right: 10px;
+}

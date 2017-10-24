@@ -1,0 +1,113 @@
+	<!-- Our Service -->
+	<section class="ulockd-service bgc-snowshade2">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3 text-center">
+					<div class="ulockd-main-title">
+						<h2 class="text-uppercase">Naše <span class="text-thm2">delatnosti</span></h2>
+						<!-- <p>Perspiciatis Unde Omnis Iste Sed ut perspiciatis unde omnis iste natu error sit voluptatem accusan.</p> -->
+						<div class="mt-separator"></div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
+					<div class="ficon-box text-center hvr-shadow">
+						<div class="ficon">
+							<span class="flaticon-medical-4 text-thm2" title="Feature Icon Box"></span>
+						</div>
+						<div class="fib-details">
+							<h4>Implantologija</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste.</p>
+							<a href="page-service-details">Pročitaj više <i class="fa fa-angle-double-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
+					<div class="ficon-box text-center hvr-shadow">
+						<div class="ficon">
+							<span class="flaticon-person-1 text-thm2" title="Feature Icon Box"></span>
+						</div>
+						<div class="fib-details">
+							<h4>Oralna hirurgija</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste.</p>
+							<a href="page-service-details">Pročitaj više <i class="fa fa-angle-double-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
+					<div class="ficon-box text-center hvr-shadow">
+						<div class="ficon">
+							<span class="flaticon-medical-1 text-thm2" title="Feature Icon Box"></span>
+						</div>
+						<div class="fib-details">
+							<h4>Parodontologija</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste.</p>
+							<a href="page-service-details">Pročitaj više <i class="fa fa-angle-double-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
+					<div class="ficon-box text-center hvr-shadow">
+						<div class="ficon">
+							<span class="flaticon-medical-3 text-thm2" title="Feature Icon Box"></span>
+						</div>
+						<div class="fib-details">
+							<h4>Stomatološka protetika</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste.</p>
+							<a href="page-service-details">Pročitaj više <i class="fa fa-angle-double-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
+					<div class="ficon-box text-center hvr-shadow">
+						<div class="ficon">
+							<span class="flaticon-folder text-thm2" title="Feature Icon Box"></span>
+						</div>
+						<div class="fib-details">
+							<h4>Estetska stomatologija</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste.</p>
+							<a href="page-service-details">Pročitaj više <i class="fa fa-angle-double-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
+					<div class="ficon-box text-center hvr-shadow">
+						<div class="ficon">
+							<span class="flaticon-sign text-thm2" title="Feature Icon Box"></span>
+						</div>
+						<div class="fib-details">
+							<h4>Preventivna stomatologija</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste.</p>
+							<a href="page-service-details">Pročitaj više <i class="fa fa-angle-double-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
+					<div class="ficon-box text-center hvr-shadow">
+						<div class="ficon">
+							<span class="flaticon-tool text-thm2" title="Feature Icon Box"></span>
+						</div>
+						<div class="fib-details">
+							<h4>Dečija stomatologija</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste.</p>
+							<a href="page-service-details">Pročitaj više <i class="fa fa-angle-double-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
+					<div class="ficon-box text-center hvr-shadow">
+						<div class="ficon">
+							<span class="flaticon-circle text-thm2" title="Feature Icon Box"></span>
+						</div>
+						<div class="fib-details">
+							<h4>Prevencija</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, iste.</p>
+							<a href="page-service-details">Pročitaj više <i class="fa fa-angle-double-right"></i></a>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>

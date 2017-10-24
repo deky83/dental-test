@@ -1,0 +1,131 @@
+	<!-- Our Gallery -->
+	<section class="ulockd-gallery" id="ordination">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3 text-center">
+					<div class="ulockd-main-title">
+						<h2 class="text-uppercase">Slike iz <span class="text-thm2">ordinacije</span></h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem labore voluptates consequuntur velit necessitatibus maiores fugiat eaque.</p>
+					</div>
+				</div>
+			</div>
+            <div class="row">
+            	<div class="col-lg-12">
+            		<div class="fancybox-gallery-slider">
+            			<div class="item">
+            				<div class="gs-thumb">
+            					<img class="img-responsive img-whp" src="images/ordinacija/ordinacija1m.jpg" alt="">
+            					<div class="gallery-overlay">
+									<div class="lbox-caption">
+										<div class="lbox-details">
+		            						<a class="lightbox-image" data-fancybox-group="preject" href="images/ordinacija/ordinacija1v.jpg">
+		            							<span class="flaticon-focus"></span>
+		            						</a>
+										</div>
+									</div>
+            					</div>
+            				</div>
+            			</div>
+            			<div class="item">
+            				<div class="gs-thumb">
+            					<img class="img-responsive img-whp" src="images/ordinacija/ordinacija2m.jpg" alt="">
+            					<div class="gallery-overlay">
+									<div class="lbox-caption">
+										<div class="lbox-details">
+		            						<a class="lightbox-image" data-fancybox-group="preject" href="images/ordinacija/ordinacija2v.jpg">
+		            							<span class="flaticon-focus"></span>
+		            						</a>
+										</div>
+									</div>
+            					</div>
+            				</div>
+            			</div>
+            			<div class="item">
+            				<div class="gs-thumb">
+            					<img class="img-responsive img-whp" src="images/ordinacija/ordinacija3m.jpg" alt="">
+            					<div class="gallery-overlay">
+									<div class="lbox-caption">
+										<div class="lbox-details">
+		            						<a class="lightbox-image" data-fancybox-group="preject" href="images/ordinacija/ordinacija3v.jpg.jpg">
+		            							<span class="flaticon-focus"></span>
+		            						</a>
+										</div>
+									</div>
+            					</div>
+            				</div>
+            			</div>
+            			<div class="item">
+            				<div class="gs-thumb">
+            					<img class="img-responsive img-whp" src="images/ordinacija/ordinacija4m.jpg" alt="">
+            					<div class="gallery-overlay">
+									<div class="lbox-caption">
+										<div class="lbox-details">
+		            						<a class="lightbox-image" data-fancybox-group="preject" href="images/ordinacija/ordinacija4v.jpg">
+		            							<span class="flaticon-focus"></span>
+		            						</a>
+										</div>
+									</div>
+            					</div>
+            				</div>
+            			</div>
+            			<div class="item">
+            				<div class="gs-thumb">
+            					<img class="img-responsive img-whp" src="images/ordinacija/ordinacija5m.jpg" alt="">
+            					<div class="gallery-overlay">
+									<div class="lbox-caption">
+										<div class="lbox-details">
+		            						<a class="lightbox-image" data-fancybox-group="preject" href="images/ordinacija/ordinacija5v.jpg">
+		            							<span class="flaticon-focus"></span>
+		            						</a>
+										</div>
+									</div>
+            					</div>
+            				</div>
+            			</div>
+            			            			<div class="item">
+            				<div class="gs-thumb">
+            					<img class="img-responsive img-whp" src="images/ordinacija/ordinacija6m.jpg" alt="">
+            					<div class="gallery-overlay">
+									<div class="lbox-caption">
+										<div class="lbox-details">
+		            						<a class="lightbox-image" data-fancybox-group="preject" href="images/ordinacija/ordinacija6v.jpg">
+		            							<span class="flaticon-focus"></span>
+		            						</a>
+										</div>
+									</div>
+            					</div>
+            				</div>
+            			</div>
+            			            			<div class="item">
+            				<div class="gs-thumb">
+            					<img class="img-responsive img-whp" src="images/ordinacija/ordinacija7m.jpg" alt="">
+            					<div class="gallery-overlay">
+									<div class="lbox-caption">
+										<div class="lbox-details">
+		            						<a class="lightbox-image" data-fancybox-group="preject" href="images/ordinacija/ordinacija7v.jpg">
+		            							<span class="flaticon-focus"></span>
+		            						</a>
+										</div>
+									</div>
+            					</div>
+            				</div>
+            			</div>
+            			            			<div class="item">
+            				<div class="gs-thumb">
+            					<img class="img-responsive img-whp" src="images/ordinacija/ordinacija8m.jpg" alt="">
+            					<div class="gallery-overlay">
+									<div class="lbox-caption">
+										<div class="lbox-details">
+		            						<a class="lightbox-image" data-fancybox-group="preject" href="images/ordinacija/ordinacija8v.jpg">
+		            							<span class="flaticon-focus"></span>
+		            						</a>
+										</div>
+									</div>
+            					</div>
+            				</div>
+            			</div>
+	            	</div>
+            	</div>
+            </div>
+		</div>
+	</section>
