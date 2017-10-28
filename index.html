@@ -30,7 +30,7 @@
 	<!-- <div class="preloader"></div> -->
 	
 		<div class="header-top">
-		<div class="container">
+		<div class="container"> 
 			<div class="row">
 				<div class="col-md-4">
 					<div class="social-linked">
@@ -371,18 +371,18 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row fixListHeight">
 				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
-					<div class="about-box text-center">
+					<div class="about-box text-center fix">
 						<div class="ab-icn"><span class="ulockd-bgthm"><i class="fa fa-money" aria-hidden="true"></i></span></div>
 						<h3>Cenovnik</h3>
 						<p>Svi pregledi pacijenata i konsultacije su potpuno besplatni. Pogledajte cenovnik naših usluga.</p>
 
-						<a href="cenovnik.html" class="btn btn-default ulockd-btn-thm2">Pogledaj cenovnik</a>
+						<a href="cenovnik.html" class="mt-25 btn btn-default ulockd-btn-thm2">Pogledaj cenovnik</a>
 					</div>
 				</div>
 				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
-					<div class="about-box text-center">
+					<div class="about-box text-center fix">
 						<div class="ab-icn"><span class="flaticon-emergency-ambulance ulockd-bgthm"></span></div>
 						<h3>Naša misija</h3>
 						<p>Naši pacijenti izuzetno cene pažnju i strpljenje koje im posvećujemo. Opravdavamo poverenje koje nam je ukazano.</p>
@@ -390,15 +390,15 @@
 					</div>
 				</div>
 				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
-					<div class="about-box text-center">
+					<div class="about-box text-center fix">
 						<div class="ab-icn"><span class="flaticon-people-8 ulockd-bgthm"></span></div>
 						<h3>Zakazivanje</h3>
 						<p>Zakažite vaš termin za besplatan pregled online.</p><br>
-						<a href="#appointment_view" data-toggle="modal" class="btn btn-default ulockd-btn-thm2"> Zakaži termin</a>
+						<a href="#appointment_view" data-toggle="modal" class="mt-20 btn btn-default ulockd-btn-thm2"> Zakaži termin</a>
 					</div>
 				</div>
 				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
-					<div class="about-box text-center">
+					<div class="about-box text-center fix">
 						<div class="ab-icn"><span class="flaticon-old-handphone ulockd-bgthm"></span></div>
 						<h3>Kontakt</h3>
 						<p>Dental Expert</p>
@@ -503,7 +503,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row fixListHeight">
 				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
 					<div class="ficon-box text-center hvr-shadow">
 						<div class="ficon">
@@ -553,7 +553,7 @@
 					</div>
 				</div>
 				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
-					<div class="ficon-box text-center hvr-shadow">
+					<div class="ficon-box text-center hvr-shadow fix">
 						<div class="ficon">
 							<span class="flaticon-folder text-thm2" title="Feature Icon Box"></span>
 						</div>
@@ -565,7 +565,7 @@
 					</div>
 				</div>
 				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
-					<div class="ficon-box text-center hvr-shadow">
+					<div class="ficon-box text-center hvr-shadow fix">
 						<div class="ficon">
 							<span class="flaticon-sign text-thm2" title="Feature Icon Box"></span>
 						</div>
@@ -577,7 +577,7 @@
 					</div>
 				</div>
 				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
-					<div class="ficon-box text-center hvr-shadow">
+					<div class="ficon-box text-center hvr-shadow fix">
 						<div class="ficon">
 							<span class="flaticon-tool text-thm2" title="Feature Icon Box"></span>
 						</div>
@@ -589,7 +589,7 @@
 					</div>
 				</div>
 				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3 ulockd-pad395">
-					<div class="ficon-box text-center hvr-shadow">
+					<div class="ficon-box text-center hvr-shadow fix">
 						<div class="ficon">
 							<span class="flaticon-circle text-thm2" title="Feature Icon Box"></span>
 						</div>
@@ -2203,5 +2203,38 @@
            
                  });
  </script>
+  <script type="text/javascript">
+        function fixListItemHeight() {
+            var itemList = $(".fixListHeight");
+            itemList.each(function() {
+
+                var itemMax = 0;
+                $(this).find('.fix').each(function() {
+
+                    $(this).height("auto");
+                    var item = $(this).height();
+                    if (item > itemMax) {
+                        itemMax = item;
+                    };
+
+                });
+
+                $(this).find('.fix').height(itemMax);
+            });
+        };
+        setTimeout(function() {
+            fixListItemHeight();
+        }, 1000);
+
+        /* On resize */
+        $(window).resize(function() {
+            fixListItemHeight();
+        });
+        /* On Ready */
+        $(document).ready(function() {
+            fixListItemHeight();
+        });
+    </script>
+
 </body>
 </html>
