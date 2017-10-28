@@ -545,7 +545,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         -o-border-radius: 0px;
         border-radius: 0px;
         padding: 0;
-        width: 200px;
+        width: 250px;
         background: #fff;
         border: solid 1px #e0e0e0;
         border-top: solid 5px;
@@ -557,9 +557,10 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     }
     
     nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a{
-        padding: 10px 15px;
+        padding: 8px 15px;
         border-bottom: solid 1px #eee;
         color: #6f6f6f;
+        font-size: 13px !important;
     }
     
     nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li:last-child > a{

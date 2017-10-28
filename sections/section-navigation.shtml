@@ -14,9 +14,9 @@
 			            </div>
 			        </div>
 			        <!-- End Top Search -->
-
+ 
 		            <!-- Start Atribute Navigation -->
-		            <div class="attr-nav">
+		            <div class="attr-nav"> 
 		                <ul>
 
 		                    <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
@@ -37,19 +37,19 @@
 		            <div class="collapse navbar-collapse" id="navbar-menu">
 		                <ul class="nav navbar-nav navbar-left" data-in="fadeIn">
 		                    <li class="">
-		                        <a href="#" class="active">Početna</a>
+		                        <a href="index.html" class="active">Početna</a>
 		                        
 		                    </li>
 		                    <li class="dropdown">
-		                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">O nama</a>
+		                        <a href="o-nama.html" class="dropdown-toggle" data-toggle="dropdown">O nama</a>
 		                        <ul class="dropdown-menu">
-									<li><a href="page-about.html">Karijera</a></li>
-									<li><a href="page-about2.html">Vesti</a></li>
-									<li><a href="page-about2.html">Dentalni turizam</a></li>
+									<!-- <li><a href="karijera.html">Karijera</a></li> -->
+								
+									<li><a href="dentalni-turizam.html">Dentalni turizam</a></li>
 		                        </ul>
 		                    </li>
 		                    <li class="dropdown">
-		                        <a href="#" class="">Implantologija</a>
+		                        <a href="implantologija.html" class="">Implantologija</a>
 		                        
 		                    </li>
 
@@ -57,108 +57,132 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Delatnosti</a>
                                 <ul class="dropdown-menu">
 									<li class="dropdown">
-										<a href="blog-grid-one.html" class="dropdown-toggle" data-toggle="dropdown">Implantologija</a>
+										<a href="implantologija.html" class="dropdown-toggle" data-toggle="dropdown">Implantologija</a>
                                         <ul class="dropdown-menu">
-											<li><a href="blog-grid-one.html">Blog Grid One </a></li>
-											<li><a href="blog-grid-two.html">Blog Grid Two </a></li>
-											<li><a href="blog-grid-three.html">Blog Grid Three </a></li>
+											<li><a href="implantologija.html">Implanti</a></li>
+											<li><a href="ct-skener-3d.html">CT Skener (3D)</a></li>
+											<li><a href="teeth-in-hour.html">Teeth in hour</a></li>
+											<li><a href="mini-implanti.html">Mini implanti</a></li>
+											<li><a href="smile-make.html">Smile make over</a></li>
+											<li><a href="pteigoridni-implant.html">Pteigoridni implanti</a></li>
+											<li><a href="sinus-lift.html">Sinus lift</a></li>
+											<li><a href="aglumentacija-grebena.html">Aglumentacija grebena</a></li>
                                         </ul>
 									</li>
 									<li class="dropdown">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Oralna hirurgija </a>
                                         <ul class="dropdown-menu">
-											<li><a href="blog-signle-left-sidebar.html">Sidebar left</a></li>
-											<li><a href="blog-signle-right-sidebar.html">Sidebar Right</a></li>
-											<li><a href="blog-signle-sidebar-less.html">Sidebar Less</a></li>
+											<li><a href="apikotomija.html">Apikotomoija</a></li>
+											<li><a href="frenektomija.html">Frenektomija</a></li>
+											<li><a href="cistektomija.html">Cistektomija</a></li>
+											<li><a href="hurusko-vadjenje-zuba.html">Hiruško vađenje zuba</a></li>
                                         </ul>
 									</li>
 									<li class="dropdown">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Parodontologija</a>
                                         <ul class="dropdown-menu">
-											<li><a href="blog-left-sidebar.html">Sidebar left</a></li>
-											<li><a href="blog-right-sidebar.html">Sidebar Right</a></li>
-											<li><a href="blog-sidebar-less.html">Sidebar Less</a></li>
+											<li><a href="obrada-parodontalnog-dzepa.html">Obrada paradontalnog džepa</a></li>
+											<li><a href="menadzment-mekog-tkiva.html">Menadžment mekog tkiva</a></li>
+											<li><a href="gumy-smile.html">Gumy smile</a></li>
+											<li><a href="terapija-ginigivitisa.html">Terapija ginigivitisa</a></li>
+											<li><a href="parodontoloska-hirurgija.html">Parodontološka hirurgija</a></li>
                                         </ul>
 									</li>
 									<li class="dropdown">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Stomatološka protetika</a>
                                         <ul class="dropdown-menu">
-											<li><a href="blog-left-sidebar.html">Sidebar left</a></li>
-											<li><a href="blog-right-sidebar.html">Sidebar Right</a></li>
-											<li><a href="blog-sidebar-less.html">Sidebar Less</a></li>
+											<li class="dropdown">
+												<a href="fiksna-protetika.html" class="dropdown-toggle" data-toggle="dropdown">Fiksna protetika</a>
+												<ul class="dropdown-menu">
+													<li><a href="cad-cam-tehnologija.html">CAD CAM tehnologija</a></li>
+													<li><a href="cirkonijumska-keramika.html">Cirkonijumska keramika - Bezmetalna keramika</a></li>
+													<li><a href="titanijumska-keramika.html">Titanijumska keramika</a></li>
+													<li><a href="platinska-keramika.html">Platinska keramika</a></li>
+													<li><a href="zlatna-keramimka.html">Zlatna keramika</a></li>
+													<li><a href="metalna-keramika.html">Metalna keramika</a></li>
+													<li><a href="privremene-zastitne-krune.html">Privremene zaštitne krune</a></li>
+													<li><a href="cirkonijumska-nadogradnja.html">Cirkonijumska nadogradnja</a></li>
+													<li><a href="fiberglas-nadogradnja.html">Fiberglas nadogradnja</a></li>
+													<li><a href="livena-nadogradnja.html">Livena nadogradnja</a></li>
+												</ul>
+											</li>
+											<li class="dropdown"><a href="mobilna-protetika.html" class="dropdown-toggle" data-toggle="dropdown">Mobilna protetika</a>
+											<ul class="dropdown-menu">
+												<li><a href="totalna-proteza.html">Totalna proteza</a></li>
+												<li><a href="imedijatna-proteza.html">Imedijatna proteza</a></li>
+												<li><a href="proteze-sa-atecmenima.html">Proteze sa atečmenima</a></li>
+												<li><a href="proteze-na-zubnim-implantima.html">Proteze na zubnim implantima</a></li>
+												<li><a href="reparatura.html">Reparatura</a></li>
+											</ul>
+											</li>
                                         </ul>
 									</li>
 									<li class="dropdown">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Estetska stomatologija</a>
                                         <ul class="dropdown-menu">
-											<li><a href="blog-left-sidebar.html">Sidebar left</a></li>
-											<li><a href="blog-right-sidebar.html">Sidebar Right</a></li>
-											<li><a href="blog-sidebar-less.html">Sidebar Less</a></li>
+											<li><a href="beljenje-zuba-laserom.html">Beljenje zuba laserom</a></li>
+											<li><a href="keramicki-viniri-fasete.html">Keramički viniri fasete</a></li>
+											<li><a href="kompozitne-fasete.html">Kompozitne fasete</a></li>
+											<li><a href="hollywood-smile.html">Hollywood smile</a></li>
+											<li><a href="keramicke-plombe.html">Keramičke plombe</a></li>
+											<li><a href="zlatne-plombe.html">Zlatne plombe</a></li>
+											<li><a href="kompozitne-sendvic-plombe.html">Kompozitne plombe (sendvič tehnika)</a></li>
+											<li><a href="kompozitne-plombe.html">Kompozitne plombe</a></li>
+											<li><a href="kucno-beljenje-zuba.html">Kućno beljenje zuba</a></li>
+											<li><a href="beljenje-avitalnog-zuba.html">Beljenje avitalnog zuba</a></li>
+											<li><a href="nakit-za-zube.html">Nakit za zube</a></li>
                                         </ul>
 									</li>
 									<li class="dropdown">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Preventivna stomatologija</a>
                                         <ul class="dropdown-menu">
-											<li><a href="blog-left-sidebar.html">Sidebar left</a></li>
-											<li><a href="blog-right-sidebar.html">Sidebar Right</a></li>
-											<li><a href="blog-sidebar-less.html">Sidebar Less</a></li>
+											<li><a href="uklanjanje-zubnog-kamenca.html">Uklanjanje zubnog kamenca</a></li>
+											<li><a href="uklanjanje-mekih-naslaga.html">Uklanjanje mekih naslaga</a></li>
+											<li><a href="zalivanje-fisura-zuba.html">Zalivanje fisura zuba</a></li>
+											<li><a href="zastitni-splintovi.html">Zaštitni splintovi</a></li>
+											<li><a href="lecenje-kanala-korena-zuba.html">Lečenje kanala korena zuba</a></li>
                                         </ul>
 									</li>
-									<li class="dropdown">
-										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dečija stomatologija</a>
-                                        <ul class="dropdown-menu">
-											<li><a href="blog-left-sidebar.html">Sidebar left</a></li>
-											<li><a href="blog-right-sidebar.html">Sidebar Right</a></li>
-											<li><a href="blog-sidebar-less.html">Sidebar Less</a></li>
-                                        </ul>
+									<li>
+										<a href="decija-stomatologija.html">Dečija stomatologija</a>
 									</li>
                                 </ul>
                             </li>
 		                    <li class="dropdown">
 		                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Galerija</a>
 		                        <ul class="dropdown-menu">
-									<li><a href="#beforeafter">Slike pacijenata</a></li>
-									<li><a href="#ordination">Slike ordinacije</a></li>
+									<li><a href="galerija-pacijenti.html">Slike pacijenata</a></li>
+									<li><a href="galerija-ordinacija.html">Slike ordinacije</a></li>
 		                        </ul>
 		                    </li>
 		                    <li class="dropdown">
-		                        <a href="#" >Cenovnik</a>
+		                        <a href="cenovnik.html" >Cenovnik</a>
 
 		                    </li>
-		                    <li class="dropdown">
-		                        <a href="#">Specijalne ponude</a>
+		                    <!-- <li class="dropdown">
+		                        <a href="specijalne-ponude.html">Specijalne ponude</a>
 
+		                    </li> -->
+		                    <li class="dropdown">
+		                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Za vaš komfor</a>
+		                        <ul class="dropdown-menu">
+									<li><a href="piezohirurgija.html">Piezohirurgija</a></li>
+									<li><a href="prf-faktori-rasta.html">PRF faktori rasta</a></li>
+									<li><a href="laser.html">Laser</a></li>
+									<li><a href="kompjuterizovana-anestezija.html">Kompjuterizovana anestezija</a></li>
+									<li><a href="diskrecija-zagarantovana.html">Diskrecija zagarantovana</a></li>
+									<li><a href="sedacija-pacjenta.html">Sedacija pacjenta</a></li>
+									<li><a href="besplatan-smestaj.html">Besplatan smeštaj</a></li>
+									
+		                        </ul>
 		                    </li>
 		                    <li class="dropdown megamenu-fw">
-		                        <a href="#">Kontakt</a>
-
+		                        <a href="kontakt.html">Kontakt</a>
+		                    </li>
+						</ul>
 		            </div><!-- /.navbar-collapse -->
 
-			        <!-- Start Side Menu -->
-			        <div class="side">
-			            <a href="#" class="close-side"><i class="fa fa-times"></i></a>
-			            <div class="widget">
-			                <h4 class="title">Custom Pages</h4>
-			                <ul class="link">
-			                    <li><a href="#">About</a></li>
-			                    <li><a href="#">Services</a></li>
-			                    <li><a href="#">Blog</a></li>
-			                    <li><a href="#">Portfolio</a></li>
-			                    <li><a href="#">Contact</a></li>
-			                </ul>
-			            </div>
-			            <div class="widget">
-			                <h4 class="title">Additional Links</h4>
-			                <ul class="link">
-			                    <li><a href="#">Retina Homepage</a></li>
-			                    <li><a href="#">New Page Examples</a></li>
-			                    <li><a href="#">Parallax Sections</a></li>
-			                    <li><a href="#">Shortcode Central</a></li>
-			                    <li><a href="#">Ultimate Font Collection</a></li>
-			                </ul>
-			            </div>
-			        </div>
-			        <!-- End Side Menu -->
+			     
 			    </nav>
 			</div>
 		</div>		
