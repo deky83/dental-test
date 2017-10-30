@@ -10,7 +10,7 @@ $mail = new PHPMailer();
 $mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'tls://smtp.gmail.com:587';             // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'example@gmail.com';                // SMTP username
+$mail->Username = 'deky83@gmail.com';                // SMTP username
 $mail->Password = 'password';                         // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587;                                    // TCP port to connect to
@@ -18,8 +18,8 @@ $mail->Port = 587;                                    // TCP port to connect to
 $message = "";
 $status = "false";
 
-$okMessage = 'Contact form successfully submitted. Thank you, I will get back to you soon!';
-$errorMessage = 'There was an error while submitting the form. Please try again later';
+$okMessage = 'Kontakt forma je uspešno popunjena. Hvala Vam, uskoro ćemo Vam odgovoriti!';
+$errorMessage = 'DOšlo je do greške prilikom popunjavanja forme. Pokuštajte ponovo.';
 
 if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
     if( $_POST['form_name'] != '' AND $_POST['form_email'] != '' AND $_POST['form_subject'] != '' ) {
@@ -30,12 +30,12 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
         $phone = $_POST['form_phone'];
         $message = $_POST['form_message'];
 
-        $subject = isset($subject) ? $subject : 'New Message | Contact Form';
+        $subject = isset($subject) ? $subject : 'Nova poruka | Kontakt forma';
 
         $botcheck = $_POST['form_botcheck'];
 
-        $toemail = 'example@gmail.com';                // Your Email Address
-        $toname = 'CodeClone';                         // Your Name
+        $toemail = 'deky83@gmail.com';                // Your Email Address
+        $toname = 'Dental Expert';                         // Your Name
 
         if( $botcheck == '' ) {
 
@@ -44,12 +44,12 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
             $mail->AddAddress( $toemail , $toname );
             $mail->Subject = $subject;
 
-            $name = isset($name) ? "Name: $name<br><br>" : '';
+            $name = isset($name) ? "Ime: $name<br><br>" : '';
             $email = isset($email) ? "Email: $email<br><br>" : '';
-            $phone = isset($phone) ? "Phone: $phone<br><br>" : '';
-            $message = isset($message) ? "Message: $message<br><br>" : '';
+            $phone = isset($phone) ? "Telefon: $phone<br><br>" : '';
+            $message = isset($message) ? "Poruka: $message<br><br>" : '';
 
-            $referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>This Form was submitted from: ' . $_SERVER['HTTP_REFERER'] : '';
+            $referrer = $_SERVER['HTTP_REFERER'] ? '<br><br><br>Ova forma je popunjena od: ' . $_SERVER['HTTP_REFERER'] : '';
 
             $body = $name.' '.$email.' '.$phone.' '.$message.' '.$referrer;
 
