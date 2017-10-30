@@ -74,20 +74,20 @@
 				</div>
 
 				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
-				<!-- <div class="ulockd-ohour-info style2 text-center">
-					<div class="ulockd-icon text-thm2"><span class="flaticon-home"></span></div>
+				<div class="ulockd-ohour-info style2 text-center">
+					<div class="ulockd-icon text-thm2"></div>
 					<div class="ulockd-info">
-						<h4>Adresa</h4>
-						<p>Lerm Ipsum bb</p>
+							<h4 class="mt-4">Zakažite vaš tretman</h4>
+						<a href="#appointment_view" data-toggle="modal" class="m-616 btn btn-default ulockd-btn-thm2"> Zakaži</a>
 					</div>
-				</div> -->
+				</div>
 				</div>
 				  				<div class="col-xxs-12 col-xs-6 col-sm-6 col-md-3">
 				<div class="ulockd-ohour-info style2 mb305-xsd text-center">
 					<div class="ulockd-icon text-thm2"><span class="flaticon-email-filled-closed-envelope"></span></div>
 					<div class="ulockd-info">
 						<h4>Pišite nam</h4>
-						<p class="ulockd-addrss"><strong>Email:</strong><a href="emailto:office@implantibeograd.com">office@implantibeograd.com</a> </p>
+						<p class="ulockd-addrss"><strong>Email:</strong><a href="emailto:office@implantibeograd.com"> office@implantibeograd.com</a> </p>
 					</div>
 				</div>
 				</div>
@@ -102,6 +102,69 @@
 				</div>
 			</div>
 		</div>
+		<!-- Product Popup View Start-->
+				<div class="modal fade appointment_view" id="appointment_view">
+				    <div class="modal-dialog">
+				        <div class="modal-content">
+				            <div class="modal-header text-center">
+				                <a href="#" data-dismiss="modal" class="class pull-right"><span class="glyphicon glyphicon-remove"></span></a>
+				                <h3 class="modal-title">Zakazivanje termina</h3>
+				            </div>
+				            <div class="modal-body">
+				                <div class="row">
+				                    <div class="col-md-10 col-md-offset-1">
+										<!-- Appointment Form Starts -->
+					                    <form id="appointment_form" name="appointment_form" class="appointment_form text-center" action="includes/appointment.php" method="post" novalidate="novalidate">
+					                        <div class="messages"></div>
+					                        <div class="row">
+					                            <div class="col-md-12">
+										        	<h2 class="text-thm2">Zakažite vaš besplatni pregled</h2>
+										        	<p>Svi pregledi pacijenata i konsultacije su potpuno besplatni.</p>
+					                                <div class="form-group text-left">
+					                                    <label for="form_name"><i class="fa fa-user-o"></i> Ime i prezime <small>*</small></label>
+					                                    <input id="form_name" name="form_name" class="form-control" placeholder="Unesite vaše ime" required="required" data-error="Ime je obavezno." type="text">
+					                                    <div class="help-block with-errors"></div>
+					                                </div>
+					                            </div>
+					                            <div class="col-md-12">
+					                                <div class="form-group text-left">
+					                                    <label for="form_email"><i class="fa fa-envelope-open-o"></i> Email <small>*</small></label>
+					                                    <input id="form_email" name="form_email" class="form-control required email" placeholder="Unesite email" required="required" data-error="Email je obavezan." type="email">
+					                                    <div class="help-block with-errors"></div>
+					                                </div>
+					                            </div>
+					                            <div class="col-md-6">
+					                                <div class="form-group text-left">
+					                                    <label for="form_date"><i class="fa fa-calendar-check-o"></i> Datum<small>*</small></label>
+					                                    <input id="form_date" name="form_date" class="form-control required datepicker" placeholder="Izaberite datum" required="required" data-error="Naslov je obavezan." type="text">
+					                                    <div class="help-block with-errors"></div>
+					                                </div>
+					                            </div> 
+					                            <div class="col-md-6">
+					                                <div class="form-group text-left">
+					                                    <label for="form_phone"><i class="fa fa-phone"></i>Telefon <small>*</small></label>
+					                                    <input id="form_phone" name="form_phone" class="form-control required" placeholder="Unesite broj telefona" required="required" data-error="Broj telefona je obavezan." type="text">
+					                                    <div class="help-block with-errors"></div>
+					                                </div>
+					                            </div>  
+					                        </div>
+					                        <div class="form-group text-left">
+					                            <label for="form_name"><i class="fa fa-file-text-o"></i> Poruka</label>
+					                            <textarea id="form_message" name="form_message" class="form-control required" rows="5" placeholder="Napišite nam poruku" required="required" data-error="Poruka je obavezna."></textarea>
+					                            <div class="help-block with-errors"></div>
+					                        </div>
+					                        <div class="form-group text-center">
+					                            <input id="form_botcheck" name="form_botcheck" class="form-control" value="" type="hidden">
+					                            <button type="submit" class="btn btn-lg ulockd-btn-thm2" data-loading-text="Getting Few Sec...">Zakaži</button>
+					                        </div>
+					                    </form>
+				                    </div>
+				                </div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+				<!-- Product Popup View End-->
 	</div>
 
 		<!-- Header Styles -->
@@ -284,6 +347,10 @@
 		                    </li>
 		                    <li class="dropdown megamenu-fw">
 		                        <a href="kontakt.html">Kontakt</a>
+		                    </li>
+		                     <li>
+		                        <a href="#appointment_view" data-toggle="modal">Zakazivanje</a>
+		                     </li>
 						</ul>
 		            </div><!-- /.navbar-collapse -->
 
@@ -327,7 +394,162 @@
 	<section class="ulockd-about2">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-12 col-md-12">
+				<div class="col-md-4 col-lg-3 ulockd-pdng0">
+					<div class="ulockd-all-service">
+						<h3 class="title-widget-sidebar ulockd-bb-dashed"></span> Meni</h3>
+						<div class="list-group">
+							<ul>
+								    <li>
+								        <a href="index.html" class="upper list-group-item" >Početna</a>
+								        
+								    </li>
+								   <li><a href="javascript:void(0);" class="upper sw-accordion list-group-item">O nama</a>
+										<ul class="swa-panel">
+											<li><a href="o-nama.html" class="list-group-item b-0">O nama</a></li>
+											<li><a href="dentalni-turizam.html" class="list-group-item b-0">Dentalni turizam</a></li>
+										</ul>
+										</li>
+								    <li>
+								        <a href="implantologija.html" class="upper list-group-item">Implantologija</a>
+								        
+								    </li>
+
+								    <li>
+								        <a href="javascript:void(0);" class="sw-accordion list-group-item upper">Delatnosti</a>
+								        <ul  class="swa-panel">
+											<li>
+												<a href="javascript:void(0);" class="sw-accordion list-group-item">Implantologija</a>
+								                <ul  class="swa-panel">
+								                	<li><a href="implantologija.html" class="list-group-item">Implantologija</a></li>
+													<li><a href="implantologija.html" class="list-group-item">Implanti</a></li>
+													<li><a href="ct-skener-3d.html" class="list-group-item">CT Skener (3D)</a></li>
+													<li><a href="teeth-in-hour.html" class="list-group-item">Teeth in hour</a></li>
+													<li><a href="mini-implanti.html" class="list-group-item">Mini implanti</a></li>
+													<li><a href="smile-make.html" class="list-group-item">Smile make over</a></li>
+													<li><a href="pteigoridni-implant.html" class="list-group-item">Pteigoridni implanti</a></li>
+													<li><a href="sinus-lift.html" class="list-group-item">Sinus lift</a></li>
+													<li><a href="aglumentacija-grebena.html" class="list-group-item">Aglumentacija grebena</a></li>
+								                </ul>
+											</li>
+											<li>
+												<a href="javascript:void(0);" class="sw-accordion list-group-item">Oralna hirurgija </a>
+								                <ul  class="swa-panel">
+													<li><a href="apikotomija.html" class="list-group-item">Apikotomoija</a></li>
+													<li><a href="frenektomija.html" class="list-group-item">Frenektomija</a></li>
+													<li><a href="cistektomija.html" class="list-group-item">Cistektomija</a></li>
+													<li><a href="hurusko-vadjenje-zuba.html" class="list-group-item">Hiruško vađenje zuba</a></li>
+								                </ul>
+											</li>
+											<li>
+												<a href="javascript:void(0);" class="sw-accordion list-group-item">Parodontologija</a>
+								                <ul  class="swa-panel">
+													<li><a href="obrada-parodontalnog-dzepa.html" class="list-group-item">Obrada paradontalnog džepa</a></li>
+													<li><a href="menadzment-mekog-tkiva.html" class="list-group-item">Menadžment mekog tkiva</a></li>
+													<li><a href="gumy-smile.html" class="list-group-item">Gumy smile</a></li>
+													<li><a href="terapija-ginigivitisa.html" class="list-group-item">Terapija ginigivitisa</a></li>
+													<li><a href="parodontoloska-hirurgija.html" class="list-group-item">Parodontološka hirurgija</a></li>
+								                </ul>
+											</li>
+											<li>
+												<a href="javascript:void(0);" class="sw-accordion list-group-item">Stomatološka protetika</a>
+								                <ul  class="swa-panel">
+													<li>
+														<a href="javascript:void(0);" class="sw-accordion list-group-item">Fiksna protetika</a>
+														<ul  class="swa-panel">
+															<li><a href="cad-cam-tehnologija.html" class="list-group-item">CAD CAM tehnologija</a></li>
+															<li><a href="cirkonijumska-keramika.html" class="list-group-item">Cirkonijumska keramika - Bezmetalna keramika</a></li>
+															<li><a href="titanijumska-keramika.html" class="list-group-item">Titanijumska keramika</a></li>
+															<li><a href="platinska-keramika.html" class="list-group-item">Platinska keramika</a></li>
+															<li><a href="zlatna-keramimka.html" class="list-group-item">Zlatna keramika</a></li>
+															<li><a href="metalna-keramika.html" class="list-group-item">Metalna keramika</a></li>
+															<li><a href="privremene-zastitne-krune.html" class="list-group-item">Privremene zaštitne krune</a></li>
+															<li><a href="cirkonijumska-nadogradnja.html" class="list-group-item">Cirkonijumska nadogradnja</a></li>
+															<li><a href="fiberglas-nadogradnja.html" class="list-group-item">Fiberglas nadogradnja</a></li>
+															<li><a href="livena-nadogradnja.html" class="list-group-item">Livena nadogradnja</a></li>
+														</ul>
+													</li>
+													<li><a href="javascript:void(0);" class="sw-accordion list-group-item">Mobilna protetika</a>
+													<ul  class="swa-panel " >
+														<li><a href="totalna-proteza.html" class="list-group-item">Totalna proteza</a></li>
+														<li><a href="imedijatna-proteza.html" class="list-group-item">Imedijatna proteza</a></li>
+														<li><a href="proteze-sa-atecmenima.html" class="list-group-item">Proteze sa atečmenima</a></li>
+														<li><a href="proteze-na-zubnim-implantima.html" class="list-group-item">Proteze na zubnim implantima</a></li>
+														<li><a href="reparatura.html" class="list-group-item">Reparatura</a></li>
+													</ul>
+													</li>
+								                </ul>
+											</li>
+											<li>
+												<a href="javascript:void(0);" class="sw-accordion list-group-item">Estetska stomatologija</a>
+								                <ul  class="swa-panel">
+													<li><a href="beljenje-zuba-laserom.html" class="list-group-item">Beljenje zuba laserom</a></li>
+													<li><a href="keramicki-viniri-fasete.html" class="list-group-item">Keramički viniri fasete</a></li>
+													<li><a href="kompozitne-fasete.html" class="list-group-item">Kompozitne fasete</a></li>
+													<li><a href="hollywood-smile.html" class="list-group-item">Hollywood smile</a></li>
+													<li><a href="keramicke-plombe.html" class="list-group-item">Keramičke plombe</a></li>
+													<li><a href="zlatne-plombe.html" class="list-group-item">Zlatne plombe</a></li>
+													<li><a href="kompozitne-sendvic-plombe.html">Kompozitne plombe (sendvič tehnika)</a></li>
+													<li><a href="kompozitne-plombe.html" class="list-group-item">Kompozitne plombe</a></li>
+													<li><a href="kucno-beljenje-zuba.html" class="list-group-item">Kućno beljenje zuba</a></li>
+													<li><a href="beljenje-avitalnog-zuba.html" class="list-group-item">Beljenje avitalnog zuba</a></li>
+													<li><a href="nakit-za-zube.html" class="list-group-item">Nakit za zube</a></li>
+								                </ul>
+											</li>
+											<li>
+												<a href="javascript:void(0);" class="sw-accordion list-group-item">Preventivna stomatologija</a>
+								                <ul  class="swa-panel">
+													<li><a href="uklanjanje-zubnog-kamenca.html" class="list-group-item">Uklanjanje zubnog kamenca</a></li>
+													<li><a href="uklanjanje-mekih-naslaga.html" class="list-group-item">Uklanjanje mekih naslaga</a></li>
+													<li><a href="zalivanje-fisura-zuba.html" class="list-group-item">Zalivanje fisura zuba</a></li>
+													<li><a href="zastitni-splintovi.html" class="list-group-item">Zaštitni splintovi</a></li>
+													<li><a href="lecenje-kanala-korena-zuba.html" class="list-group-item">Lečenje kanala korena zuba</a></li>
+								                </ul>
+											</li>
+											<li>
+												<a href="decija-stomatologija.html" class="list-group-item">Dečija stomatologija</a>
+											</li>
+								        </ul>
+								    </li>
+								    <li>
+								        <a href="javascript:void(0);" class="sw-accordion list-group-item upper">Galerija</a>
+								        <ul  class="swa-panel">
+											<li><a href="galerija-pacijenti.html" class="list-group-item">Slike pacijenata</a></li>
+											<li><a href="galerija-ordinacija.html" class="list-group-item">Slike ordinacije</a></li>
+								        </ul>
+								    </li>
+								    <li>
+								        <a href="cenovnik.html" class="list-group-item upper">Cenovnik</a>
+
+								    </li>
+								    <!-- <li>
+								        <a href="specijalne-ponude.html">Specijalne ponude</a>
+
+								    </li> -->
+								    <li>
+								        <a href="javascript:void(0);" class="sw-accordion list-group-item upper">Za vaš komfor</a>
+								        <ul  class="swa-panel">
+											<li><a href="piezohirurgija.html" class="list-group-item">Piezohirurgija</a></li>
+											<li><a href="prf-faktori-rasta.html" class="list-group-item">PRF faktori rasta</a></li>
+											<li><a href="laser.html">Laser</a></li> 
+											<li><a href="kompjuterizovana-anestezija.html" class="list-group-item">Kompjuterizovana anestezija</a></li>
+											<li><a href="diskrecija-zagarantovana.html" class="list-group-item">Diskrecija zagarantovana</a></li>
+											<li><a href="sedacija-pacjenta.html" class="list-group-item">Sedacija pacjenta</a></li>
+											<li><a href="besplatan-smestaj.html" class="list-group-item">Besplatan smeštaj</a></li>
+											
+								        </ul>
+								    </li>
+								    <li>
+								        <a href="kontakt.html" class="list-group-item upper">Kontakt</a>
+								    </li>
+								     <li>
+		                        <a href="#appointment_view" data-toggle="modal" class="list-group-item upper">Zakazivanje</a>
+		                     </li>
+
+								</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-8 col-md-9">
 					<div class="ulock-about">
 						<h1 class="title-bottom ulockd-mrgn630">Implantologija</h1>
 						<h4>Garancija</h4>

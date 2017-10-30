@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Asap-Regular';
+  src: url('Asap-Regular.eot?#iefix') format('embedded-opentype'),  url('Asap-Regular.otf')  format('opentype'),
+	     url('Asap-Regular.woff') format('woff'), url('Asap-Regular.ttf')  format('truetype'), url('Asap-Regular.svg#Asap-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
