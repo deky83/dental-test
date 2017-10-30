@@ -83,7 +83,7 @@ body {
   background-attachment: fixed;
   background-color: #ffffff;
   color: #777777;
-  font-family: "Asap-Regular";
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   line-height: 1.642;
   overflow-x: hidden;
@@ -165,7 +165,7 @@ iframe {
 /* line 74, ../sass/project-sass/_typography.scss */
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Asap-Regular";
+  font-family: "Montserrat", sans-serif;
   line-height: 1.42857;
   color: #333333;
 }
@@ -257,12 +257,12 @@ strong {
 
 /* line 122, ../sass/project-sass/_typography.scss */
 .ff-opensans {
-  font-family: "Asap-Regular";
+  font-family: "Open Sans", sans-serif;
 }
 
 /* line 125, ../sass/project-sass/_typography.scss */
 .ff-montserrat {
-  font-family: "Asap-Regular";
+  font-family: "Montserrat", sans-serif;
 }
 
 /* Header Sass */
@@ -457,7 +457,7 @@ nav.navbar.bootsnav.menu-style1 ul.nav li a {
 nav.navbar.bootsnav.menu-style1 ul.nav li a {
   color: #ffffff;
   font-size: 14px;
-  font-family: "Asap-Regular";
+  font-family: "Open Sans", sans-serif;
   font-weight: 600;
   text-transform: uppercase;
   -webkit-transition: all 0.2s ease-in-out;
@@ -489,7 +489,7 @@ nav.navbar.bootsnav.menu-style1 ul.nav li a:hover, nav.navbar.bootsnav.menu-styl
 nav.navbar.bootsnav li.dropdown ul.dropdown-menu li a {
   color: #303030;
   font-weight: normal;
-  font-family: "Asap-Regular";
+  font-family: "Open Sans", sans-serif;
   -webkit-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
@@ -605,7 +605,7 @@ nav.navbar.bootsnav.menu-style1 ul.dropdown-menu.megamenu-content .content ul.me
 
 /* line 342, ../sass/project-sass/_navbar.scss */
 nav.menu-style1 .side .widget ul.link li a {
-  font-family: "Asap-Regular";
+  font-family: "Open Sans", sans-serif;
 }
 
 /* line 353, ../sass/project-sass/_navbar.scss */
@@ -4199,14 +4199,14 @@ article.ulockd-pd-content {
 /* line 54, ../sass/project-sass/_footer.scss */
 .ulockd-footer-fst-col p {
   color: #eeeeee;
-  font-family: "Asap-Regular";
+  font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
 }
 
 /* line 61, ../sass/project-sass/_footer.scss */
 .footer-fst-col p {
   color: #222222;
-  font-family: "Asap-Regular";
+  font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
 }
 
@@ -4872,7 +4872,7 @@ table.shop-dashboard thead tbody tr {
 /* line 6, ../sass/project-sass/_inner-page.scss */
 .ulockd-error {
   color: #ffffff;
-  font-family: "Asap-Regular";
+  font-family: "Open Sans", sans-serif;
   font-size: 345px;
   font-style: italic;
   letter-spacing: 5px;
